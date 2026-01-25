@@ -118,8 +118,6 @@ quiz-based app workflows, UI navigation, and result evaluation logic.
 
 <h2>🖼 Screenshots</h2>
 
-<p>Add your application screenshots in a folder named <code>screenshots/</code>.</p>
-
 <p align="center">
   <img src="screenshots/start_screen.jpeg" width="250">
   <img src="screenshots/home_screen.jpeg" width="250">
