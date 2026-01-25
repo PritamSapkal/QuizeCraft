@@ -1,4 +1,4 @@
-# QuizeCraft
+<h1>QuizCraft 🎯</h1>
 
 Flutter quiz application.
 
