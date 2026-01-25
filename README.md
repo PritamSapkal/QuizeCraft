@@ -21,8 +21,7 @@ interactive quizzes.
 
 <p>
 QuizCraft is a <b>trial learning application</b> created to practice and
-demonstrate Flutter application development. It does not solve a specific
-real-world problem yet, but it serves as a strong foundation for understanding
+demonstrate Flutter application development. Now it serves as a strong foundation for understanding
 quiz-based app workflows, UI navigation, and result evaluation logic.
 </p>
 
@@ -106,19 +105,6 @@ quiz-based app workflows, UI navigation, and result evaluation logic.
   </li>
 </ol>
 
-<hr>
-
-<h2>🧑‍🎓 Target Audience</h2>
-
-<ul>
-  <li>Students</li>
-  <li>Beginners in application development</li>
-  <li>Beginners in IT and programming</li>
-  <li>Anyone starting with Flutter</li>
-</ul>
-
-<hr>
-
 <h2>🛠 Tech Stack</h2>
 
 <ul>
@@ -140,8 +126,6 @@ quiz-based app workflows, UI navigation, and result evaluation logic.
 ![Quiz Screen](screenshots/quiz.png)
 ![Result Screen](screenshots/result.png)
 </pre>
-
-<p><b>📌 Tip:</b> Keep screenshot names simple and consistent.</p>
 
 <hr>
 
