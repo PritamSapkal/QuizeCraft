@@ -1,10 +1,11 @@
 <h1>QuizCraft 🎯</h1>
 
-<p>
-  <a href="https://github.com/USERNAME/REPOSITORY/releases">
+<p align="center">
+  <a href="https://github.com/PritamSapkal/QuizeCraft/releases">
     <img src="https://img.shields.io/badge/APK-Download-green" alt="APK Download">
   </a>
 </p>
+
 
 <p><b>Tagline:</b> <i>Learn. Practice. Success.</i></p>
 
