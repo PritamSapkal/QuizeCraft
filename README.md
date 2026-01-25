@@ -32,13 +32,13 @@ quiz-based app workflows, UI navigation, and result evaluation logic.
 <h2>🖼 Screenshots</h2>
 
 <p align="center">
-  <img src="screenshots/start_screen.jpeg" width="200" height="200">
-  <img src="screenshots/home_screen.jpeg" width="200" height="200">
+  <img src="screenshots/start_screen.jpeg" width="250" >
+  <img src="screenshots/home_screen.jpeg" width="250" >
   <br>
-  <img src="screenshots/quizeex1.jpeg"width="200" height="200">
-  <img src="screenshots/quizeex2.jpeg" width="200" height="200">
+  <img src="screenshots/quizeex1.jpeg"width="250" >
+  <img src="screenshots/quizeex2.jpeg" width="250" >
   <br>
-  <img src="screenshots/result_screen.jpeg"width="200" height="200">
+  <img src="screenshots/result_screen.jpeg"width="250" >
 </p>
 
 <hr>
