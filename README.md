@@ -1,6 +1,6 @@
 <h1>QuizCraft 🎯</h1>
 
-<p align="center">
+<p>
   <a href="https://github.com/PritamSapkal/QuizeCraft/releases">
     <img src="https://img.shields.io/badge/APK-Download-green" alt="APK Download">
   </a>
