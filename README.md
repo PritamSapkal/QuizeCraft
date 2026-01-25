@@ -120,13 +120,15 @@ quiz-based app workflows, UI navigation, and result evaluation logic.
 
 <p>Add your application screenshots in a folder named <code>screenshots/</code>.</p>
 
-<pre>
-![Start Screen](screenshots/start_screen.jpeg)
-![Home Screen](screenshots/home_screen.jpeg)
-![Quiz Example 1](screenshots/quizeex1.jpeg)
-![Quiz Example 2](screenshots/quizeex2.jpeg)
-![Result Screen](screenshots/result_screen.jpeg)
-</pre>
+<p align="center">
+  <img src="screenshots/start_screen.jpeg" width="250">
+  <img src="screenshots/home_screen.jpeg" width="250">
+  <br>
+  <img src="screenshots/quizeex1.jpeg" width="250">
+  <img src="screenshots/quizeex2.jpeg" width="250">
+  <br>
+  <img src="screenshots/result_screen.jpeg" width="250">
+</p>
 
 <hr>
 
