@@ -1,7 +1,7 @@
 <h1>QuizCraft 🎯</h1>
 
 <p>
-  <a href="https://github.com/USERNAME/REPOSITORY/releases">
+  <a href="https://github.com/PritamSapkal/QuizeCraft/releases/tag/v1.0.0">
     <img src="https://img.shields.io/badge/APK-Download-green" alt="APK Download">
   </a>
 </p>
